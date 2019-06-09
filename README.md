@@ -1,2 +1,2 @@
-# testovoe
-Testovoe_zadanie
+php -f index.php
+
